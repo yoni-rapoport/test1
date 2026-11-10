@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
-PRODID:-//ABIMM ESS - 11/10/2026 12:18:03
+PRODID:-//ABIMM ESS - 11/10/2026 12:28:49
 VERSION:2.0
 METHOD:PUBLISH
 X-WR-CALNAME:ABI Demo Arena - My Schedule
 X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-WR-TIMEZONE:America/New_York
+X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
 CLASS:PUBLIC
 DESCRIPTION:Position: DEPT 50 POSITION - MAX LENGTHS\nTeam Area: ESS DEPT 01 - MAX LENGTH TEAMS\nBriefing Area: MEET AT MAIN OFFICE\nFacility: Sports Stadium\nAddress: 1600 Exposition Blvd\, Sacramento\, CA 95815\nYour calendar app checks for updates on its own schedule\, so changes can take up to 24 hours to appear here.
-DTSTAMP:20261110T171804Z
+DTSTAMP:20261110T172849Z
 DTSTART:20261027T180000
 DTEND:20261027T220000
 ORGANIZER;CN=esslogin@abico.com:MAILTO:donotreply@abimm.com
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 DESCRIPTION:Position: DEPT 50 POSITION - MAX LENGTHS\nTeam Area: ESS DEPT 01 - MAX LENGTH TEAMS\nBriefing Area: MEET AT MAIN OFFICE\nFacility: Racetrack\nYour calendar app checks for updates on its own schedule\, so changes can take up to 24 hours to appear here.
-DTSTAMP:20261110T171804Z
+DTSTAMP:20261110T172849Z
 DTSTART:20261105T110000
 DTEND:20261105T150000
 ORGANIZER;CN=esslogin@abico.com:MAILTO:donotreply@abimm.com
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 DESCRIPTION:Position: DEPT 50 POSITION - MAX LENGTHS\nTeam Area: ESS DEPT 01 - MAX LENGTH TEAMS\nBriefing Area: MEET AT MAIN OFFICE\nFacility: Arena Complex\nAddress: 405 K Street\, Sacramento\, CA 95814\nYour calendar app checks for updates on its own schedule\, so changes can take up to 24 hours to appear here.
-DTSTAMP:20261110T171804Z
+DTSTAMP:20261110T172849Z
 DTSTART:20261105T180000
 DTEND:20261105T223000
 ORGANIZER;CN=esslogin@abico.com:MAILTO:donotreply@abimm.com
