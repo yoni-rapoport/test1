@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//ABIMM ESS - 11/10/2026 11:27:52
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:ABI Demo Arena - My Schedule
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Position: DEPT 50 POSITION - MAX LENGTHS\nTeam Area: ESS DEPT 01 - MAX LENGTH TEAMS\nBriefing Area: MEET AT MAIN OFFICE\nFacility: Sports Stadium\nAddress: 1600 Exposition Blvd\, Sacramento\, CA 95815\nYour calendar app checks for updates on its own schedule\, so changes can take up to 24 hours to appear here.
+DTSTAMP:20261110T162752Z
+DTSTART:20261027T180000
+DTEND:20261027T220000
+ORGANIZER;CN=esslogin@abico.com:MAILTO:donotreply@abimm.com
+LOCATION:Sports Stadium\, 1600 Exposition Blvd\, Sacramento\, CA 95815
+SUMMARY;LANGUAGE=en-us:Country Festival
+SEQUENCE:214627889
+UID:000001481@abimm.com
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Position: DEPT 50 POSITION - MAX LENGTHS\nTeam Area: ESS DEPT 01 - MAX LENGTH TEAMS\nBriefing Area: MEET AT MAIN OFFICE\nFacility: Racetrack\nYour calendar app checks for updates on its own schedule\, so changes can take up to 24 hours to appear here.
+DTSTAMP:20261110T162752Z
+DTSTART:20261105T110000
+DTEND:20261105T150000
+ORGANIZER;CN=esslogin@abico.com:MAILTO:donotreply@abimm.com
+LOCATION:Racetrack
+SUMMARY;LANGUAGE=en-us:Horse Race
+SEQUENCE:216037199
+UID:000001490@abimm.com
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Position: DEPT 50 POSITION - MAX LENGTHS\nTeam Area: ESS DEPT 01 - MAX LENGTH TEAMS\nBriefing Area: MEET AT MAIN OFFICE\nFacility: Arena Complex\nAddress: 405 K Street\, Sacramento\, CA 95814\nYour calendar app checks for updates on its own schedule\, so changes can take up to 24 hours to appear here.
+DTSTAMP:20261110T162752Z
+DTSTART:20261105T180000
+DTEND:20261105T223000
+ORGANIZER;CN=esslogin@abico.com:MAILTO:donotreply@abimm.com
+LOCATION:Arena Complex\, 405 K Street\, Sacramento\, CA 95814
+SUMMARY;LANGUAGE=en-us:ESS TEST EVENT
+SEQUENCE:216037090
+UID:000001487@abimm.com
+TRANSP:OPAQUE
+END:VEVENT
+
+END:VCALENDAR
